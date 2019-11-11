@@ -28,5 +28,6 @@ Template for a BlueJ Extension that
 - for more information about the mechanics of using the project board, please visit: https://help.github.com/en/github/managing-your-work-on-github/about-project-boards
 - there are addtional links on that page as well
 
+___
 Project Repository: [https://github.com/MetroCS/QualityToolsForBlueJ](https://github.com/MetroCS/QualityToolsForBlueJ)
 
