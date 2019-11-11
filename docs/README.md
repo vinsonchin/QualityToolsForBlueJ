@@ -27,3 +27,6 @@ Template for a BlueJ Extension that
 - contibutors will work on different issues or requirements but once they are completed, others should use those contributions
 - for more information about the mechanics of using the project board, please visit: https://help.github.com/en/github/managing-your-work-on-github/about-project-boards
 - there are addtional links on that page as well
+
+Project Repository: [https://github.com/MetroCS/QualityToolsForBlueJ](https://github.com/MetroCS/QualityToolsForBlueJ)
+
